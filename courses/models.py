@@ -9,3 +9,5 @@ class Course(models.Model):
 
     def _str__(self):
         return self.title
+
+
